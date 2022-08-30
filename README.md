@@ -7,7 +7,7 @@
 <img src="" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
  
  
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+☬DA𝐌𝐘𝐁𝐎𝐓 𝐈𝐒 𝐄𝐙𝐈𝐎࿐+࿐;دریافت فیلم آموزشی به wa.me/989935689926;به وب سایت بات خوش امدید) ]
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+☬DA𝐌𝐘𝐁𝐎𝐓 𝐈𝐒 𝐄𝐙𝐈𝐎࿐+࿐;دریافت فیلم آموزشی به https//:wa.me/989935689926;به وب سایت بات خوش امدید) ]
  
  
  #### TOTAL REPO VIEWS📍
@@ -38,16 +38,7 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 
 # ```Bot Info```
-<p align="center">
-<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
-<a href="https://github.com/Kaveeshasithum/DARK-NERO-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD4?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kaveeshasithum/DARK-NERO-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD4?color=red&style=flat-square"></a>
-<a href="https://github.com/Kaveeshasithum/DARK-NERO-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGDark/neroBot-MD4?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Kaveeshasithum/DARK-NERO-BOT"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/Kaveeshasithum/DARK-NERO-BOT/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD4?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD4&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Kaveeshasithum/DARK-NERO-BOT/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
+<p align='htttps\\:wa.me/989935689926'>
 <p align='center'>
     </p>
 
