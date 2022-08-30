@@ -1,10 +1,9 @@
 <p align="center">
 <img src="./database/kaveesha.gif" alt="Loading..." width="320"/>
 <p align="center">
-
-<h1 align="center">✫ ✫ ✫𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾✫ ✫ ✫<br></h1>
+<h1 align="center">𝐄𝐙𝐈𝐎 𝐁𝐎𝐓 𝐅𝐀 𝐇𝐉<br></h1>
 <p align="center">
-<img src="https://i.ibb.co/5LT7brL/Whats-App-Image-2022-07-19-at-1-07-23-PM.jpg" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
+<img src="" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
  
  
  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+☬DARK༒NERO࿐+࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹) ]
