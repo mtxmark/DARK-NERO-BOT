@@ -7,11 +7,11 @@
 <img src="" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
  
  
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+☬DARK༒NERO࿐+࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹) ]
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+☬DA𝐌𝐘𝐁𝐎𝐓 𝐈𝐒 𝐄𝐙𝐈𝐎࿐+࿐;دریافت فیلم آموزشی به wa.me/989935689926;به وب سایت بات خوش امدید) ]
  
  
  #### TOTAL REPO VIEWS📍
-![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
+![Visitor Count](no link)
 
  
  
@@ -140,7 +140,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
  
  
  
-# Install Manually 👇
+# نصب پکیج 👇
 ## `Requirements`
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
@@ -152,17 +152,17 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 git clone https://github.com/Kaveeshasithum/DARK-NERO-BOT.git
 npm start
 ```
-## `For Termux/Ssh/Ubuntu`
+## `For no app/Ssh/Ubuntu`
 ```bash
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
+support : wa.me/989935689926
+apt XXX
+pkg XXX
+pkg XXX
+pkg XXX
+pkg XXX
+pkg XXX
+pkg XXX
+pkg XXX
 pkg install imagemagick -y
 git clone https://github.com/DGXeon/NeroBot-MD4
 cd NeroBot-MD
@@ -170,18 +170,4 @@ npm start
 ```
 ## `For VPS`
 ```bash
-apt install nodejs 
-apt install git 
-apt apt install ffmpeg 
-apt apt install libwebp 
-apt apt install imagrmagick
-apt install bash
-git clone https://github.com/DGXeon/NeroBot-MD4
-cd DarkNero-MD2
-npm start
-```
-## `For 24/7 Activation (Termux)`
-```bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
-```
-<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
+apt 
